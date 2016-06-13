@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "gym",
+    "packageName": "com.team.gym",
+    "packageFolder": "com/team/gym",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "5efcd018cfddb075c30eac05e79c6c25f7cd4902",
+    "testFrameworks": []
+  }
+}
